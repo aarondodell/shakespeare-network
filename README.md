@@ -4,6 +4,8 @@ Weight of edges are determined by how often characters speak with eachother in t
 
 Color of the nodes relies on how many lines a character speaks in the entire play.
 
+Networks created in Python using NetworkX
+
 # Plays
 
 ## Hamlet
